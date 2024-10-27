@@ -1,14 +1,14 @@
 body{
-    background: linear-gradient(#1aa5e2, #FFFFFF);
+    background: linear-gradient(#e49532, #FFFFFF);
 }
 .myButton {
     width: 100px;
 	box-shadow: 0px 10px 14px -7px #545454;
-	background-color:#ffc7d5;
+	background-color:#22408e;
 	border-radius:8px;
 	display:inline-block;
 	cursor:pointer;
-	color:#000000;
+	color:#ffffff;
 	font-family:Arial;
 	font-size:18px;
 	font-weight:bold;
